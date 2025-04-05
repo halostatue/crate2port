@@ -1,6 +1,6 @@
 [package]
 name = "crate2port"
-version = "0.1.1"
+version = "0.1.2"
 authors = [
   "Zero King <l2dy@macports.org>",
   "Austin Ziegler <halostatue@gmail.com>",
@@ -14,7 +14,7 @@ path = "src/main.rs"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-cargo2port = { git = "https://github.com/halostatue/cargo2port.git" }
+cargo2port = { git = "https://github.com/halostatue/cargo2port.git", version = "0.3.1" }
 cargo-lock = "10"
 reqwest = { version = "0.12", features = ["blocking"] }
 flate2 = "1.0"
