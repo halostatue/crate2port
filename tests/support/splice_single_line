@@ -1,0 +1,4 @@
+before
+cargo.crates \
+    foo 1.0.0 abc123
+after

@@ -1,0 +1,6 @@
+PortSystem 1.0
+
+subport foo-bar {
+    cargo.crates \
+        new 3.0.0 ccc
+}

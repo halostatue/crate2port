@@ -1,0 +1,7 @@
+PortSystem 1.0
+PortGroup cargo 1.0
+
+cargo.crates \
+    baz 3.0.0 aaa111
+
+checksums rmd160 abc

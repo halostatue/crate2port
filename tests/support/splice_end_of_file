@@ -1,0 +1,4 @@
+PortSystem 1.0
+
+cargo.crates \
+    new 2.0.0 bbb
