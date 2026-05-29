@@ -1,6 +1,6 @@
 [package]
 name = "crate2port"
-version = "0.2.0"
+version = "0.2.1"
 license = "MIT"
 authors = [
   "Zero King <l2dy@macports.org>",
